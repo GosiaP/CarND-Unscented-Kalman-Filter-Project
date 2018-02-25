@@ -1,5 +1,11 @@
+**/.vs/
+**/packages/
+
 # silly macOS
 .DS_Store
 
 # build files
-build/
+build/Win32 
+build/UnscentedKF.dir 
+build/CMakeFiles
+build/Debug  
