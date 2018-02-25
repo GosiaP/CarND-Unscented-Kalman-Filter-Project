@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="E:\udacity_2\CarND-Unscented-Kalman-Filter-Project\src\ukf.cpp">
@@ -18,30 +18,5 @@
     <Filter Include="Source Files">
       <UniqueIdentifier>{DBFD0B77-E9A8-30BA-8EA8-CF872F67245D}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{5767344e-45fe-41b8-9384-26e0233f47ea}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Scripts">
-      <UniqueIdentifier>{bdb5d139-32ee-42b6-92fd-43459972e763}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\src\json.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\src\measurement_package.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\src\tools.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\src\ukf.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\install-windows.bat">
-      <Filter>Scripts</Filter>
-    </None>
   </ItemGroup>
 </Project>
